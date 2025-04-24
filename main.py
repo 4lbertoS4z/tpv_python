@@ -1,12 +1,8 @@
 import tkinter as tk
 from tkinter import messagebox
 from PIL import Image, ImageTk
-import json
+from cargar_productos import cargar_productos
 import os
-
-def cargar_productos():
-    with open("productos.json", "r", encoding="utf-8") as f:
-        return json.load(f)
 
 productos_por_categoria = cargar_productos()
 pedido_actual = {}
