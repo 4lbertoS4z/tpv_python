@@ -1,0 +1,64 @@
+{
+    "Refrescos": {
+        "Coca Cola": {
+            "precio": 1.50,
+            "imagen": "img/coca_cola.png"
+        },
+        "Nestea": {
+            "precio": 1.40,
+            "imagen": "img/nestea.png"
+        },
+        "Fanta Limón": {
+            "precio": 1.50,
+            "imagen": "img/fanta_limon.png"
+        }
+    },
+    "Tostadas": {
+        "Jamón": {
+            "precio": 2.50,
+            "imagen": "img/tostada_jamon.png"
+        },
+        "Tortilla": {
+            "precio": 2.30,
+            "imagen": "img/tostada_tortilla.png"
+        },
+        "Panceta": {
+            "precio": 2.80,
+            "imagen": "img/tostada_panceta.png"
+        }
+    },
+    "Bocadillos": {
+        "Atún": {
+            "precio": 3.50,
+            "imagen": "img/bocadillo_atun.png"
+        },
+        "Tortilla": {
+            "precio": 4.00,
+            "imagen": "img/bocadillo_tortilla.png"
+        },
+        "Pollo": {
+            "precio": 3.80,
+            "imagen": "img/bocadillo_pollo.png"
+        }
+    },
+    "Platos": {
+        "Huevos longaniza": {
+            "precio": 5.00,
+            "imagen": "img/huevos_longaniza.png"
+        },
+        "Huevos panceta": {
+            "precio": 6.00,
+            "imagen": "img/huevos_panceta.png"
+        },
+        "patatas": {
+            "precio": 1.00,
+            "imagen": "img/patatas.png"
+        }
+    },
+    "Menu día": {
+        "Menu 1": {
+            "precio": 10.00,
+            "imagen": "img/menu1.png"
+        }
+    }
+}
